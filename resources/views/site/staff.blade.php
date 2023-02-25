@@ -42,6 +42,11 @@
                         <img src="{{ $teamPhotos[54] }}" width=50px class="img-responsive center-block profile-picture" />
                         <p class="text-center">Chris Pawley</p>
                     </div>
+                     <div class="col-md-12">
+                        <h4 class="text-center">Assistant Division Director (VATUK2)</h4><br />
+                        <img src="{{ $teamPhotos[7723] }}" width=50px class="img-responsive center-block profile-picture" />
+                        <p class="text-center">Connor Sedman</p>
+                    </div>
                 </div>
             </div>
         </div>
